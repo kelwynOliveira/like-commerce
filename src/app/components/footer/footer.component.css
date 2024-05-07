@@ -1,0 +1,18 @@
+footer{
+  padding: 30px;
+  text-align: center;
+  background-color: black;
+}
+
+p{
+  color: white;
+}
+
+a{
+  color: var(--brand-color);
+}
+
+span{
+  color: rgb(223, 8, 44);
+  font-weight: bold;
+}

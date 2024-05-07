@@ -1,0 +1,104 @@
+.center{
+  text-align: center;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.content {
+  margin: 50px;
+}
+
+.content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+
+.content a {
+  color: var(--brand-color);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #333;
+  text-decoration: underline;;
+}
+
+form,
+form .field {
+  display: flex;
+  flex-direction: column;
+}
+
+form {
+  margin-bottom: 50px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 1.125rem;
+  font-weight:lighter;
+}
+
+form .field + .field {
+  margin-top: 20px;
+}
+
+form .field input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+form input[type="submit"] {
+  background: var(--brand-color);
+  color: #fff;
+  cursor: pointer;
+  margin-top: 25px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1.125rem;
+  padding: 10px;
+}
+
+.auth {
+  margin: 50px 0;
+}
+
+.auth p {
+  margin-bottom: 15px;
+}
+
+.auth ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth li {
+  border: 1px solid var(--brand-color);
+  padding: 10px;
+  border-radius: 25px;
+  cursor: pointer;
+  width: 100px;
+  text-align: center;
+}
+
+.auth li + li {
+  margin-left: 10px;
+}
+
+.auth li img {
+  width: 25px;
+}

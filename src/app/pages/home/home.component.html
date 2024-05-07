@@ -1,0 +1,20 @@
+<app-banner />
+<div class="content">
+  <div *ngFor="let product of products" class="product">
+    <div class="product-image">
+      <div *ngIf="product.sold" class="sold">Vendido</div>
+      <a href="{{ product.url }}">
+        <img src="{{ product.photo }}" alt="" />
+      </a>
+    </div>
+    <div>
+      <a href="{{ product.url }}">
+        <h2>{{ product.title }}</h2>
+        <p class="price"><span>R$</span>{{ product.price.toString() }},00</p>
+        <p>
+          ou <span>R$</span>{{ (product.price * 0.9).toFixed(0) }},00 à vista
+        </p>
+      </a>
+    </div>
+  </div>
+</div>

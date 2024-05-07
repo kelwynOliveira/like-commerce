@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="content">
+    <h1>Bem-vindo de volta!</h1>
+
+    <form>
+      <div class="field">
+        <label for="email">E-mail</label>
+        <input type="email" name="email" id="email" required />
+      </div>
+
+      <div class="field">
+        <label for="password">Senha</label>
+        <input type="password" name="password" id="password" required />
+      </div>
+
+      <a href="#">Esqueceu a senha?</a>
+
+      <input type="submit" value="Login" />
+    </form>
+
+    <div class="auth center">
+      <p>ou conect-se com</p>
+      <ul>
+        <li><img src="assets/images/google.svg" alt="Google icon" /></li>
+        <li><img src="assets/images/github.svg" alt="Github icon" /></li>
+        <li><img src="assets/images/facebook.svg" alt="Facebook icon" /></li>
+      </ul>
+    </div>
+
+    <p>
+      Ainda não possui uma conta?
+      <a [routerLink]="['/signup']">Registre-se de graça</a>
+    </p>
+  </div>
+</div>
