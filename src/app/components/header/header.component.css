@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: black;
-  padding: 2rem;
+  padding: 2rem 1rem;
   box-sizing: border-box;
 }
 
@@ -55,22 +55,24 @@
   cursor: pointer;
 }
 
-.nav ul {
+.nav .menu {
   display: inline;
   list-style-type: none;
   padding: 0;
 }
 
-nav ul li {
+nav .menu li {
   display: inline-block;
-  margin-right: 2rem;
+  margin-left: 2rem;
+  text-align: right;
 }
 
-nav ul li a {
+nav .menu li a {
   text-decoration: none;
   color: var(--primary-text-color);
+  text-wrap: nowrap;
 }
 
-nav ul li a:hover {
+nav .menu li a:hover {
   color: var(--brand-color);
 }

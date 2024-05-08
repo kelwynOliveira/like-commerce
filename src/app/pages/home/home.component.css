@@ -16,6 +16,27 @@
   overflow: hidden;
 }
 
+.off{
+  position: absolute;
+  top: 35px;
+  right: 18px;
+  line-height: normal;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  z-index: 1;
+  padding: 6px 121px;
+  font-size: 17px;
+  background: #df0a0a;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+.off p span{
+  font-size: 1.5rem;
+}
+
 .sold{
   position: absolute;
   top: 35px;
@@ -61,4 +82,11 @@ a:hover{
   position: relative;
   top: -.3em;
   font-size: 0.9rem;
+}
+
+hr {
+  margin: 5px 0;
+}
+.compare p{
+  font-weight: 500;
 }

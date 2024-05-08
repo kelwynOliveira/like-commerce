@@ -1,3 +1,38 @@
-.content{
+.container{
   min-height: 100vh;
+}
+
+.content {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 0 15px;
+}
+
+h1{
+  font-size: 4.25rem;
+  margin-bottom: 20px;
+}
+
+p{
+  margin: 1.5rem 0;
+  font-size: 1.125rem;
+}
+
+a{
+  color: var(--brand-color);
+  font-weight: bold;
+}
+
+span{
+  font-weight: bold;
+  color: var(--brand-color);
+}
+
+@media screen and (max-width: 700px) {
+    h1{
+      font-size: 2rem;
+    }
+    p{
+      font-size: 1rem;
+    }
 }
