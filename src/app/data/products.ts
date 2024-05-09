@@ -56,6 +56,17 @@ export const products = [
   },
   {
     "id": 6,
+    "title": "Estante Tramontina Modulare em Madeira Pinus com Acabamento Natural com 5 Prateleiras (90x30.2x139.2)",
+    "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20na%20estante",
+    "price": 100,
+    "photo": "./assets/images/prateleira/banner/1-banner.jpg",
+    "comparePlace": "Amazon",
+    "compareUrl":"https://www.amazon.com.br/Estante-Tramontina-Modulare-Madeira-Prateleiras/dp/B093Q3J43D/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d",
+    "comparePrice": 173,
+    "sold": false
+  },
+  {
+    "id": 7,
     "title": "Geladeira Electrolux Frost Free Inverter 474L AutoSense Duplex Cor Black Inox Look (IF56B)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20na%20geladeira",
     "price": 3889,
@@ -66,7 +77,7 @@ export const products = [
     "sold": false
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Guarda Roupa Casal em MDP, 6 Portas, 4 Gavetas - Poema Amendola (6 meses de uso)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20no%20roupeiro",
     "price": 556,
@@ -77,7 +88,7 @@ export const products = [
     "sold": false
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Lavadora Mueller 8kg Energy (6 meses de uso) + base com rodas + baldes",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20na%20lavadora",
     "price": 1111,
@@ -88,7 +99,7 @@ export const products = [
     "sold": false
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Liquidificador Philips Walita Preto Multiprocessador PowerChop 750W",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20no%20liquidificador",
     "price": 222,
@@ -99,7 +110,7 @@ export const products = [
     "sold": false
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Mesa de escritório com vão para cabos (140x90x75) (unidade 1)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20na%20mesa%20de%20escritorio",
     "price": 778,
@@ -110,7 +121,7 @@ export const products = [
     "sold": false
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Mesa de escritório com vão para cabos (140x90x75) (unidade 2)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20na%20mesa%20de%20escritorio",
     "price": 778,
@@ -121,7 +132,7 @@ export const products = [
     "sold": false
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Mesa de jantar 4 cadeiras e tampo de granito (6 meses de uso)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20na%20mesa%20de%20jantar",
     "price": 780,
@@ -132,7 +143,7 @@ export const products = [
     "sold": false
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "Micro-ondas Electrolux 20L Preto Tira Odor (MT30S)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20no%20microondas",
     "price": 389,
@@ -143,7 +154,7 @@ export const products = [
     "sold": true
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Kit Nicho Prateleira Para Quarto Sala Mdf Preto 5 Peças",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20nos%20nichos",
     "price": 200,
@@ -154,7 +165,7 @@ export const products = [
     "sold": false
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Ventilador de Coluna Mallory Air Timer TS Com Controle Remoto (unidade 1)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20no%20ventilador",
     "price": 167,
@@ -165,7 +176,7 @@ export const products = [
     "sold": true
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "Ventilador de Coluna Mallory Air Timer TS Com Controle Remoto (unidade 2)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20no%20ventilador",
     "price": 167,
