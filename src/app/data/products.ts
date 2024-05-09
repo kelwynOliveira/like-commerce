@@ -8,7 +8,7 @@ export const products = [
     "comparePlace": "Amazon",
     "compareUrl":"https://www.amazon.com.br/Decker-Fritadeira-Antiaderente-Ajuste-Temperatura/dp/B08BG6JRN4/ref=sr_1_5?dib=eyJ2IjoiMSJ9.a69sa1VOuroWm325X1Vtg-SI_iSvkCdbsaiBv-Bj9BKWwcdIlGwLnCKUNLgIY2xFgPd08bswlDSrtMeJWXbDWKl88pAjpIdLei1P11-HhYI5anWhMTHiTvdrfYrPK5ZcKUhzlOAgXeejmZIYtSR-yUUwdW4r0_Rfu8oEad5rgxrF3Ri_XSgurbwe39rmixbqelRml-U3UUzhg7R4RN65CfMWbS5_x2t6saxjO95wHdHrv2C2xkOf8ffdlmwDbbVXF7LtuFi0yIhGPf54hq49Skrot1QOAGNUBjFZ9V7iPbU.Ks2Bxe1khRU-mVfw_77D6QQlwfjvDIRU3x9bnx_3YMU&dib_tag=se&keywords=black+decker+air+fryer+fritadeira+el%C3%A9trica+5+litros&qid=1715095565&sr=8-5&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678",
     "comparePrice": 313,
-    "sold": false
+    "sold": true
   },
   {
     "id": 2,
@@ -41,7 +41,7 @@ export const products = [
     "comparePlace": "Amazon",
     "compareUrl":"https://www.amazon.com.br/Cadeira-Gamer-Gt-Racer-Preto/dp/B083M7KDYX/ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1AGMXV9KDNAW1&dib=eyJ2IjoiMSJ9.ov1jvSnvSmVk_gL_MYecPEPZ1kTuvhSB1WdEvN1Nvr1DqEGM-AsJq4kNEhHo9g9rLhff5bJi9DzC4llmLuDDg6I0VlsWulhyr_WZUOCDUCcMwC4Eaic0Lr9jIwCqBVTyRomXbBILawO2SrEjBCFsvL3LlVQwkdxrxk0RY71-HrC0iyUUZKnkvCfZNKbzwkatyXnMP747tf3e6dLbLjCEV5a_Ay__Dt2TR-unm1JuouyBuTUafCpXv6ixCbtReFyFENKn48FXXyzqZw1DF9r4XkXuwYCrpWma33QRDaAeGkA.c5JmqhsNH7IQJ4utuQ5qSp46QHWDIVOYmV9x3AjiDNs&dib_tag=se&keywords=cadeira%2Bgamer%2Bmoobx%2Breclinavel&qid=1715096381&sprefix=cadeira%2Bgamer%2Bmoobx%2Breclin%C3%A1vel%2Caps%2C610&sr=8-8&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147&th=1",
     "comparePrice": 799,
-    "sold": false
+    "sold": true
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@ export const products = [
     "comparePlace": "Mercado Livre",
     "compareUrl":"https://produto.mercadolivre.com.br/MLB-4393084900-espelho-grande-lapidado-170-x-60cm-_JM?matt_tool=58598667&matt_word=&matt_source=google&matt_campaign_id=14302215498&matt_ad_group_id=161363917910&matt_match_type=&matt_network=g&matt_device=c&matt_creative=686778909978&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=5069573439&matt_product_id=MLB4393084900&matt_product_partition_id=1967063186812&matt_target_id=pla-1967063186812&cq_src=google_ads&cq_cmp=14302215498&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx3UvD2GFPM2eKklByfD1VPUFKBzY0zTru_eaQbxnbZ5OsYPWeCJiSBoC3ggQAvD_BwE",
     "comparePrice": 375,
-    "sold": false
+    "sold": true
   },
   {
     "id": 6,
@@ -89,7 +89,7 @@ export const products = [
   },
   {
     "id": 9,
-    "title": "Liquidificador Philips Walita Preto Multiprocessador PowerChop 750",
+    "title": "Liquidificador Philips Walita Preto Multiprocessador PowerChop 750W",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20no%20liquidificador",
     "price": 222,
     "photo": "./assets/images/Liquidificador/banner/1-banner.jpg",
@@ -140,7 +140,7 @@ export const products = [
     "comparePlace": "Electrolux",
     "compareUrl":"https://loja.electrolux.com.br/micro-ondas-tira-odor-electrolux-mt30s/p?idsku=2001808&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx1oRjsbcA1yqYlyMeuBVpkbEt18guYwXL16tYhri6GyF0pgrONn48BoCPEAQAvD_BwE",
     "comparePrice": 599,
-    "sold": false
+    "sold": true
   },
   {
     "id": 14,
@@ -162,7 +162,7 @@ export const products = [
     "comparePlace": "Amazon",
     "compareUrl":"https://www.amazon.com.br/Ventilador-Timer-Mallory-Preto-Grafite/dp/B07BSYWZ6K/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=40XV75EIIQYI&dib=eyJ2IjoiMSJ9.ETQhx46xF7G7XYh-YLFAusxKGUItTf9J76SPGGGmvg1WBpNScyphn0vfNUD2ajPjMPAIIR_ve5psMlBlaKv6jqDQMu2kjVS-CArVDY3-mXC0-wRnIuNW9WvEjh9wnMzfr2fuoAOqIUvx0Nbzn0MIF0tfjtHFUK_ofJ5MptLYP4FRg_mEgIqp5Vjyzapz8yIb-icPYIqFRtVwCohImnPc9B1648inkHuQ96EIseTGx1zuQBJfTjMQ9jsOw3WPbMpd149AYaObqHOqUQMI5daAv3M0KjqsYl30Nqw1iMvX3_g.PQud8b0GNzpxLThmaZdvEQVM75A-Pso3WsmF_KxrZaA&dib_tag=se&keywords=Ventilador+de+Coluna+Mallory+Air+Timer+TS+Com+Controle+Remoto&qid=1715097233&sprefix=ventilador+de+coluna+mallory+air+timer+ts+com+controle+remoto%2Caps%2C295&sr=8-1&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12",
     "comparePrice": 250,
-    "sold": false
+    "sold": true
   },
   {
     "id": 16,
