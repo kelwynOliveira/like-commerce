@@ -24,10 +24,11 @@
     <div *ngIf="!product.sold">
       <a href="{{ product.url }}">
         <h2>{{ product.title }}</h2>
-        <p class="price"><span>R$</span>{{ product.price.toString() }},00</p>
-        <p>
-          ou <span>R$</span>{{ (product.price * 0.9).toFixed(0) }},00 à vista
+        <p class="price">
+          <span>R$</span>{{ (product.price * 0.9).toFixed(0) }},00
+          <span>à vista</span>
         </p>
+        <p>ou <span>R$</span>{{ product.price.toString() }},00 parcelado</p>
       </a>
     </div>
     <hr *ngIf="!product.sold" />
