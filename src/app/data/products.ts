@@ -118,13 +118,13 @@ export const products = [
     "comparePlace": "Marceneiro",
     "compareUrl":"",
     "comparePrice": 1200,
-    "sold": false
+    "sold": true
   },
   {
     "id": 12,
     "title": "Mesa de escritório com vão para cabos (140x90x75) (unidade 2)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20na%20mesa%20de%20escritorio",
-    "price": 722,
+    "price": 778,
     "photo": "./assets/images/mesa-de-escritorio/banner/1-banner.jpg",
     "comparePlace": "Marceneiro",
     "compareUrl":"",
