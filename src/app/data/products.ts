@@ -25,7 +25,7 @@ export const products = [
     "id": 3,
     "title": "Cama Queen Bellona (31x198x158) Ortobom + Baú Queen Cori Cream (39x198x158) (6 meses de uso)",
     "url": "https://wa.me/5592999988871?text=Tenho%20interesse%20na%20cama%20bau",
-    "price": 4500,
+    "price": 4445,
     "photo": "./assets/images/bau/banner/1-banner.jpg",
     "comparePlace": "Ortobom",
     "compareUrl":"https://www.ortobom.com.br/Kit/26197130",
