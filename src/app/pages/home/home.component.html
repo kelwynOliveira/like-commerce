@@ -7,10 +7,7 @@
           Poupe
           <span
             >{{
-              (
-                100 -
-                (product.price * 0.9 * 100) / product.comparePrice
-              ).toFixed(0)
+              (100 - (product.price * 100) / product.comparePrice).toFixed(0)
             }}%</span
           >
         </p>
@@ -25,19 +22,36 @@
       <a href="{{ product.url }}">
         <h2>{{ product.title }}</h2>
         <p class="price">
-          <span>R$</span>{{ (product.price * 0.9).toFixed(0) }},00
+          <span>R$</span
+          >{{
+            product.price.toLocaleString(undefined, {
+              minimumFractionDigits: 2
+            })
+          }}
           <span>à vista</span>
         </p>
-        <p>ou <span>R$</span>{{ product.price.toString() }},00 parcelado</p>
+        <p>
+          ou 12x de <span>R$</span
+          >{{
+            product.priceParcela.toLocaleString(undefined, {
+              minimumFractionDigits: 2
+            })
+          }}
+        </p>
       </a>
     </div>
     <hr *ngIf="!product.sold" />
     <div class="compare" *ngIf="!product.sold">
-      <a href="{{ product.compareUrl }}" target="_blank">
-        <p>
-          {{ product.comparePlace }}: R${{ product.comparePrice.toString() }},00
-        </p>
-      </a>
+      <p>
+        Na loja:
+        <a href="{{ product.compareUrl }}" target="_blank">
+          {{ product.comparePlace }}: R${{
+            product.comparePrice.toLocaleString(undefined, {
+              minimumFractionDigits: 2
+            })
+          }}
+        </a>
+      </p>
     </div>
   </div>
 </div>
