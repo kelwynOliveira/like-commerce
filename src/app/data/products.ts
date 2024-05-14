@@ -117,7 +117,7 @@ export const products = [
     "comparePlace": "Amazon",
     "compareUrl":"https://www.amazon.com.br/gp/aw/d/B09GCJZ45Z/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=6d782e3ef676f61e85be4b6a8a1c6a9b&hsa_cr_id=0&qid=1715098021&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_be_s_sparkle_mcd_asin_1_img&pd_rd_w=V95Yf&content-id=amzn1.sym.bc3a2107-1032-4eec-96a9-e6dd7c74aad5%3Aamzn1.sym.bc3a2107-1032-4eec-96a9-e6dd7c74aad5&pf_rd_p=bc3a2107-1032-4eec-96a9-e6dd7c74aad5&pf_rd_r=V8NDPYGBQE26KD0SMVJK&pd_rd_wg=HR36E&pd_rd_r=786c3e56-6bb1-4a54-9972-7f3178521d8e&th=1",
     "comparePrice": 329.00,
-    "sold": false
+    "sold": true
   },
   {
     "id": 11,
