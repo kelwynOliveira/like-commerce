@@ -32,7 +32,7 @@ export const products = [
     "photo": "./assets/images/bau/banner/1-banner.jpg",
     "comparePlace": "Ortobom",
     "compareUrl":"https://www.ortobom.com.br/Kit/26197130",
-    "comparePrice": 5848.00,
+    "comparePrice": 9242.29,
     "sold": false
   },
   {
@@ -80,7 +80,7 @@ export const products = [
     "photo": "./assets/images/geladeira/banner/1-banner.jpg",
     "comparePlace": "Electrolux",
     "compareUrl":"https://loja.electrolux.com.br/geladeira-electrolux-top-freezer-frost-free-efficient-black-inox-look-com-autosense-if56b/p?idsku=310118710&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx8WPmFZU009Ya3mFMfDhSheWUH6r9AswcZJjLQcSo61snk9LVWlkCRoCZsMQAvD_BwE",
-    "comparePrice": 4699,
+    "comparePrice": 6699.00,
     "sold": false
   },
   {
