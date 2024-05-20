@@ -21,7 +21,7 @@ export const products = [
     "comparePlace": "Casas Bahia",
     "compareUrl":"https://www.casasbahia.com.br/cozinha-compacta-demobile-savoy-com-6-portas-2-gavetas-e-2-prateleiras-178cm-de-largura-55033954/p/55033955?utm_medium=Cpc&utm_source=GP_PLA&IdSku=55033955&idLojista=10037&tipoLojista=1P&gclsrc=aw.ds&&utm_campaign=gg_pmax_core_move_ab&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx8E1gkx1FlfSfbcjGR7ZexGYDHymHR5Yr-j8qbltyRZikA-930dAERoCNLAQAvD_BwE",
     "comparePrice": 899.00,
-    "sold": false
+    "sold": true
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@ export const products = [
     "comparePlace": "Ortobom",
     "compareUrl":"https://www.ortobom.com.br/Kit/26197130",
     "comparePrice": 9242.29,
-    "sold": false
+    "sold": true
   },
   {
     "id": 4,
@@ -81,7 +81,7 @@ export const products = [
     "comparePlace": "Electrolux",
     "compareUrl":"https://loja.electrolux.com.br/geladeira-electrolux-top-freezer-frost-free-efficient-black-inox-look-com-autosense-if56b/p?idsku=310118710&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx8WPmFZU009Ya3mFMfDhSheWUH6r9AswcZJjLQcSo61snk9LVWlkCRoCZsMQAvD_BwE",
     "comparePrice": 6699.00,
-    "sold": false
+    "sold": true
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@ export const products = [
     "comparePlace": "Magazine Luiza",
     "compareUrl":"https://www.magazineluiza.com.br/guarda-roupa-casal-6-portas-com-pes-poema-amendola-touch-64400-demobile/p/hde8756a41/mo/guro/?seller_id=veredasonline&region_id=123458&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=69101&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAjwouexBhAuEiwAtW_Zx_JBF8CUHn_pRtN-pGedOuuzVVZH9KJXYgLLvwoJT5t4OXBEjOCd5xoCmlkQAvD_BwE",
     "comparePrice": 1103.88,
-    "sold": false
+    "sold": true
   },
   {
     "id": 9,
