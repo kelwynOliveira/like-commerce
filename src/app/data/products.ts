@@ -105,7 +105,7 @@ export const products = [
     "comparePlace": "Amazon",
     "compareUrl":"https://www.amazon.com.br/Lavadora-Autom%C3%A1tica-Energy-Branca-Mueller/dp/B0779KHS79/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1S0Z2RD33D9OX&dib=eyJ2IjoiMSJ9.oM1An3K2eTbtwosGbFi8oeiXWEZIsZVZ2KRDYUPuB6e7guLRxKOBhiGRBG7XPH4xWEjG2acNIEZyFdCVAL0r_oJJS5GgcjP4XiI1BXrBPeH_J7AxtXDmPM2ZKK2I7FX0d1H1rIMujEYZEtb2aq_yQjHyhVFRpDdioyT7IcJseBHMfb-ZneMwR1_b7f8_V6KAqOquxaGfG8-XErnyvfHPfQEUiKU7A-a6AEU1DQ4eIn6kEMCt5K9Daj27WnvLQq9sGe1aKW4mADbpsB_X_1dwhqDPjiCZJd2BCXA-9bOy8hs.UBmDvUkH3MzYD-BCmPzbVpLwTXN3x5e6Mhekp498FPk&dib_tag=se&keywords=Lavadora%2BMueller%2B8kg%2BEnergy&qid=1715096965&sprefix=lavadora%2Bmueller%2B8kg%2Benergy%2B6%2Bmeses%2Bde%2Buso%2B%2Caps%2C322&sr=8-1&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e&th=1",
     "comparePrice": 1549.9,
-    "sold": false
+    "sold": true
   },
   {
     "id": 10,
@@ -153,7 +153,7 @@ export const products = [
     "comparePlace": "Tv Lar",
     "compareUrl":"https://www.tvlar.com.br/conjunto-ciplafe-poeme-6-cadeiras--/p",
     "comparePrice": 1029.00,
-    "sold": false
+    "sold": true
   },
   {
     "id": 14,
