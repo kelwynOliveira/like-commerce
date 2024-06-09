@@ -1,5 +1,7 @@
 # LikeCommerce
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+
 > This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
 Website: [LiKe Commerce](https://kelwynoliveira.github.io/like-commerce/)
