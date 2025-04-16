@@ -11,7 +11,7 @@ A simple e-commerce website built to solve a real-world problem: selling persona
 ---
 
 📚 **Background**  
-"LiKe" is a blend of *Lídia* (my wife) and *Kelwyn* (me).  
+"LiKe" is a blend of *[Lí]dia* (my wife) and *[Ke]lwyn* (me).  
 We developed this website while preparing to move from the northern to the southern region of Brazil, as a practical solution for selling the items we couldn’t take with us.
 
 After two weeks listing our items on common ad platforms like OLX and Facebook Marketplace, we had received only a few messages and closed no deals. So I decided to build a custom website to improve our chances.
@@ -32,12 +32,10 @@ Instead of waiting for solutions, I created one. Even small projects like this r
 ---
 
 📸 **Preview:**  
-*(Add a screenshot of your homepage here)*
+[![Home of LiKe Commerce](src/assets/images/Thumb-LikeCommerce.PNG)](https://kelwynoliveira.github.io/like-commerce/)
 
 ---
 
 🧠 **Status:**  
 Archived — this project fulfilled its original real-world purpose.
 
-
-[![Home of LiKe Commerce](src/assets/images/Thumb-LikeCommerce.PNG)](https://kelwynoliveira.github.io/like-commerce/)
