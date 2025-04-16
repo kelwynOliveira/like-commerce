@@ -6,12 +6,38 @@
 
 Website: [LiKe Commerce](https://kelwynoliveira.github.io/like-commerce/)
 
-LiKe is the combination of the first syllables of the names Lídia (my wife) and Kelwyn (myself).
+A simple e-commerce website built to solve a real-world problem: selling personal items during a relocation.
 
-We are moving from the northern region of Brazil to the south of the country. And for that, we want to sell the items we won't take with us in the move.
+---
 
-After two weeks with the items available on advertising platforms such as OLX and Facebook Marketplace, we had only a few messages and no deals closed.
+📚 **Background**  
+"LiKe" is a blend of *Lídia* (my wife) and *Kelwyn* (me).  
+We developed this website while preparing to move from the northern to the southern region of Brazil, as a practical solution for selling the items we couldn’t take with us.
 
-This website was developed to promote and sell the items we don't want to take with us in our move.
+After two weeks listing our items on common ad platforms like OLX and Facebook Marketplace, we had received only a few messages and closed no deals. So I decided to build a custom website to improve our chances.
+
+---
+
+⚙️ **Tech Stack:**  
+- Angular
+- Figma (UI design)
+- GIMP (image editing)
+
+---
+
+💡 **Why this matters**  
+This project highlights my problem-solving mindset:  
+Instead of waiting for solutions, I created one. Even small projects like this reflect the way I approach challenges — combining design, coding, and clear objectives.
+
+---
+
+📸 **Preview:**  
+*(Add a screenshot of your homepage here)*
+
+---
+
+🧠 **Status:**  
+Archived — this project fulfilled its original real-world purpose.
+
 
 [![Home of LiKe Commerce](src/assets/images/Thumb-LikeCommerce.PNG)](https://kelwynoliveira.github.io/like-commerce/)
